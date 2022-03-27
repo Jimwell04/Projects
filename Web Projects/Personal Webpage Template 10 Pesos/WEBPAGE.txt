@@ -1,0 +1,14 @@
+#Personal Webpage Template 10 Pesos
+
+✔️ HTML
+✔️ CSS
+❌ JavaScript
+✔️ Bootstrap
+❌ Desktop Mode Support
+
+This webpage is created for cellphone layout 
+This website is not support desktop mode
+The UI of this website is Created in Bootstrap CSS library 
+
+#Created by JIMZ Template 2021 
+

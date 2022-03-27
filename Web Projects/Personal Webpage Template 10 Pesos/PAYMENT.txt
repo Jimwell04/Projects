@@ -1,0 +1,29 @@
+#Personal Webpage Template 10 Pesos 
+#PAYMENT 
+
+Payment Method
+- Load 
+- GCash
+
+Name :
+From :
+For :
+Amount :
+
+#ADDS
+
+Edit +10 Pesos
+Change Color Only +5 Pesos
+Add Element +10 Pesos
+Hosting +10 Pesos
+
+Amount :
+
+
+
+#TOTAL Payment 
+Total : 
+
+REMINDER WHEN YOU HAVE PURCHASED THIS WEBSITE IT CANNOT BE RETURNED
+
+#Created by JIMZ Templates 2021

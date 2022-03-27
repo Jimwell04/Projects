@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+				<style>
+								.title {
+												text-align: center;
+												color: #0011ae;
+								}
+								.subtitle {
+												text-align: center
+								}
+				</style>
+				<head>
+								<meta name="description" content="Open and Close the Door">
+  <meta name="keywords" content="Open and close, Door, Open and close door">
+  <meta name="author" content="Jimwell Bustos Ibay">
+
+								<title>Open And Close Door</title>
+				</head>
+				
+				<body style="background-color: white;">
+								<h1 class="title">JIMZ</h1>
+								<h2 class="subtitle">Open and Close The Door</h1>
+								<center>
+								<img src="close.png" id="Door">
+								<br>
+								<button onclick="Open ()" onmousedown="sound.play()">Open</button>
+								<button onclick="Close ()" onmousedown="sound.play()">Close</button>
+								</center>
+				</body>
+				<script>
+								function Open (){
+								document.getElementById("Door").src = "Open.png";
+								}
+								function Close (){
+								document.getElementById("Door").src = "Close.png";
+								}
+								var sound = new Audio ();
+								sound.src = "Sound.mp3";
+				</script>
+</html>

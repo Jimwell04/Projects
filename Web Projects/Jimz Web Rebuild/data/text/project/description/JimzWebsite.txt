@@ -1,0 +1,7 @@
+              <p class="lead">
+               
+                 This website is Jimwell old version of a personal website which states the information on his personality. 
+                 
+                 <a href=""> see more... </a>
+                 
+               </p>

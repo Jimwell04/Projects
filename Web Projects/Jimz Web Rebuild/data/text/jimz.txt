@@ -1,0 +1,15 @@
+<div>
+<img src="../../data/img/JIMZ icon.png" class="mb-3" width="150">
+</div>
+
+This page is help you to learn about "Computer Programming" or topic about Technology and also this page is posting "Motivational Quotes" don't forget to Like & Follow thank you.
+
+
+
+<div class="mt-3">
+<a href="https://www.facebook.com/jimzfbpage/">
+
+<button class="ui primary button">Follow</button>
+
+</a>
+</div>

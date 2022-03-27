@@ -1,0 +1,19 @@
+<i class="close icon" id="warningIcon"></i>
+
+<div class="header">
+
+<i class="warning icon"></i>
+
+This website is under development
+
+<p>
+
+This is read only website or test purposes this is not the final output of this website so expect that many bugs or errors will be seen on this website.
+
+</p>
+
+<p>
+Thank you for visiting!
+</p>
+
+<div>

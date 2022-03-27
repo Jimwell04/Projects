@@ -1,0 +1,92 @@
+
+      <a href="index.html" class="item">
+      
+        Home
+        
+      </a>
+      
+       
+       <a href="about.html" class="item">
+         
+         
+         About
+         
+       </a>
+       
+        
+        
+        <a href="contact.html" class="item">
+        
+        
+        Contact
+          
+        </a>
+        
+       
+       
+       
+       
+       
+        <div class="right menu">
+        
+         <div id="hideMenu">
+               
+                <a href="https://www.facebook.com/jimzfbpage/" class="item">
+                               
+                             Follow
+                                 
+                               </a>
+                               
+   
+   <a href="tutorial.html" class="item">
+                                        
+                              Tutorial
+                                          
+                                  </a>                              
+                               
+                               
+                       <a href="project.html" class="item">
+                                       
+                             Project
+                                         
+                                 </a>
+                                 
+                       <a href="qoute.html" class="item">
+                                       
+                             Quote
+                                         
+                                  </a>
+        </div>
+        
+        
+        <div data-tooltip="Click" data-position="bottom center">
+                        
+                          <div id="showMenu">
+                          
+                          <img src="../../data/img/JIMZ radius icon.png" width="50" height="50" id="imgMenu">
+                          
+                          </div>
+                          
+                        </div>
+               
+                   
+        </div>
+     
+          
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              

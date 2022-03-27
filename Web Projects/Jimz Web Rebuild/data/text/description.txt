@@ -1,0 +1,22 @@
+<h1 class="display-5">Description</h1>
+        
+        <p class="lead">
+          
+          This website is 
+          
+          
+          
+          <a href="https://www.facebook.com/jimzfbpage" data-tooltip="JIMZ" data-position="top center" >
+            Jimwell
+          </a>
+          
+          
+          personal website. He's the creator of this website He lives in Masantol Pampanga Philippines. He's a student with knowledge of technology. He's 16 years old in making this website and he's introvert and shy. He has difficulty understanding English he just used 
+          
+          <a href="https://translate.google.com/?hl=fil">
+          Google Translate
+          </a>
+          
+          to make English Typography in this website.
+          
+        </p>

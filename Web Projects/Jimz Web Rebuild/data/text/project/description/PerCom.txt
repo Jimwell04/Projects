@@ -1,0 +1,7 @@
+               <p class="lead">
+               
+                 Permutation and Combination Calculator calculate your problems in Permutation and Combination
+                 
+                 <a href=""> see more... </a>
+                 
+               </p>

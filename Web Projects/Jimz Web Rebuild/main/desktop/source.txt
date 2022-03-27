@@ -1,0 +1,6 @@
+Loader : https://loading.io/css/
+UI : https://semantic-ui.com/
+UI : https://cdnjs.com/libraries/bootstrap
+Script : https://cdnjs.com/libraries/jquery
+swiper: https://swiperjs.com/
+Debuger: https://jimzweb.000webhostapp.com/solution.js/v1.0/solution.js

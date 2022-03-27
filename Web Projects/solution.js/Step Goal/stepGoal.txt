@@ -1,0 +1,110 @@
+solution.js 1.0
+
+THE PROBLEM: The Programmer don't understand the functions created by JavaScript like appendChild()
+
+THE SOLUTION: I create library to translate the functions code in JavaScript to readable and short systax.
+
+step 1
+   - Create file .js 
+   - Create function to log the version of the library
+   - Create function to make simple the systax of the document.getElementById("id");
+   • Search more systax and make simple function •
+     - print
+     - warning
+     - error
+     - write
+     - write_line
+     - input
+     - id
+     - style
+     - create_element
+step 2
+     - Update step 1
+    • Search more systax and make simple function •
+     - cls
+     - tag
+     - add_text
+     - add_attribute
+step 3 
+     - update step 2 and 1 if required
+     • Search more systax and make simple function •
+     - add_to
+step 4
+     - make create_element function
+     
+          create_element step
+          - make function create_element this function is to make element in HTML.
+         
+          - function create_element(parameters) {
+          
+          codes....
+          
+          }
+          
+          - parameters (element,id,add_to, attribute_name,attribute_value,text)
+          
+          - create element first
+          - add id attribute the value is the id parameter add in the created element
+          - append the created element base on the add_to parameter
+          - target the id of the created element and ad attribute name and value base on the parameters
+          - add text in the created element
+          - return result
+step 5
+     - update the code if required to update
+     - search more and create simle function
+     - remove
+     - add_to update to add 
+step 6 
+     • more on update and editing •
+     - create list of translated systax in new txt file
+     - update tag to tags
+     - update cls to classes
+     
+     • edit the icon of solution.js •
+step 7
+     - update the program to make function readable
+     - typeOf
+     - write_line update to writeLine
+     - add_element update to addElement
+     - add_attribute update to setAttribute
+     - add_text update to addText 
+     - create_element update to createElement
+step 8
+     - update the parameters of the function if required
+     - update the createElement parameter function attribute_name to attributeName, attribute_value to attributeValue
+     - upperCase
+     - lowerCase
+step 9
+     - str
+     - create variable that can make array easily to target
+          - size
+     - update version codes
+step 10
+     - update the add to addTo
+     - add
+     - remove
+     - put
+step 11
+     - update the remove function code
+     - combine put and add to put function
+     - clean code
+     - update createElement add parameter to addTo
+     - update typeOf code function
+step 12
+     - select
+     - selectAll
+     - remove is update to del means delete
+     - update the del code delete to splice()
+     - remove text function
+     - setAttribute update to addAttribute
+     - develop remove and replace 
+     - now remove and replace is not under development
+step 13
+     • UPDATE •
+     • Replace all function code getId to get only because update all parameters id to select means quirySelector •
+     • Update code •
+step 14
+     • Try make a project •
+     • list all function •
+     
+     🥳 THE FIRST SOLUSTION.JS IS CREATED 🥳

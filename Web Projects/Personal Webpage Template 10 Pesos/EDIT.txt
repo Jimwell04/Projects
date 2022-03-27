@@ -1,0 +1,31 @@
+#Personal Webpage Template 10 Pesos 
+#Edit
+
+Fill up the form
+
+#About You
+
+Name :
+
+Icon : Google Drive, Mega, or Link online
+
+Personal Motto :
+
+Description About You :
+
+Picture : Google Drive, Mega, or Link online
+
+Description About The Picture :
+
+#Address
+Your Address : One or more address
+
+#Contact
+Email :
+Phone :
+
+#Social Media
+Youtube Channel Link :
+Facebook Page Link :
+Instagram Link :
+Twitter Link :

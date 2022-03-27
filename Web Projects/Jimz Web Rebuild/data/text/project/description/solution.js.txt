@@ -1,0 +1,7 @@
+               <p class="lead">
+               
+                 Solution.js is a JavaScript library to make JavaScript simple, readable, and short systax of the functions.
+                 
+                 <a href=""> see more... </a>
+                 
+               </p>

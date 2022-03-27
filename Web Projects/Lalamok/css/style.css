@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+body {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+
+.container-lg {
+  margin: 20% 30%;
+}
+.container {
+  margin: 10% 20%;
+}
+.container-sm {
+  margin: 5% 10%;
+}
+.container-ssm {
+  margin: 2% 5%;
+}
+.center {
+  text-align: center;
+}
+.btn-ln {
+  width: 90%;
+  height: 50px;
+  background-color: #000000;
+  color: #cccccc;
+  border: none;
+  border-radius: 3px;
+}
+.btn-lg{
+  width: 200px;
+  height: 50px;
+  background-color: #000000;
+  color: #cccccc;
+  border: none;
+  border-radius: 3px; 
+}
+.btn {
+  width: 100px;
+  height: 25px;
+  background-color: #000000;
+  color: #cccccc;
+  border: none;
+  border-radius: 3px;
+}
+.btn-sm{
+  width: 50px;
+  height: 15px;
+  background-color: #000000;
+  color: #cccccc;
+  border: none;
+  border-radius: 3px;
+}
+.btn-ln:onclick, .btn-lg:onclick, .btn:onclick, .btn-sm:onclick {
+  background-color: #333333;
+}
+.btn-ln:hover, .btn-lg:hover, .btn:hover, .btn-sm:hover{
+  background-color: #111111;
+}
+
+.m-t {
+  margin-top: 150px;
+}
+.m-r {
+  margin-right: 150px;
+}
+.m-b {
+  margin-bottom: 150px;
+}
+.m-l {
+  margin-left: 150px;
+}
+.m {
+  margin: 150px;
+}

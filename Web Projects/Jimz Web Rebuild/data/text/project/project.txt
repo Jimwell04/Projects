@@ -1,0 +1,28 @@
+          <a class="item">
+          
+          <div class="projectName">FINDERWEB</div>
+          
+          </a>
+          
+          
+           
+           <a class="item">
+                    
+            <div class="projectName">PerCom</div>
+                    
+           </a>
+          
+          
+          <a class="item">
+          
+          <div class="projectName">solution.js</div>
+          
+          </a>
+
+
+
+          <a class="item">
+          
+          <div class="projectName">JimzWebsite</div>
+          
+          </a>

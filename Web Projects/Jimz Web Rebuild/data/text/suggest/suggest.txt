@@ -1,0 +1,11 @@
+  <a class="item" id="suggestItem">About</a>
+      
+      <a class="item" id="suggestItem">Contact</a>
+      
+      <a class="item" id="suggestItem">Tutorial</a>
+      
+      <div class="right menu">
+        
+        <div class="item" id="suggestItem"><i class="add icon"></i>Suggest</div>
+        
+      </div>
