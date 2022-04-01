@@ -12,7 +12,7 @@ int main()
 	int sum = x - y;
 	cout << "You'r birt year is:" << sum << endl << endl;
 	
-	cout << "By: Jimwell B. Ibay";
+	cout << "By: Jimwell Ibay";
 
 	return 0;
 }
