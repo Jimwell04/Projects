@@ -21,7 +21,7 @@ function draw() {
   background(0, 155, 255);
   
   for (let bubble of bubbles) {
-  
+    
     bubble.show();
     bubble.animate(  5  );
     //             speed
