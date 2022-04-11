@@ -75,6 +75,12 @@ class bubble {
   
   color(r,g,b,a) {
     
+    if(!a) {
+      
+      a = 255;
+      
+    }
+    
     this.r = r;
     this.g = g;
     this.b = b;

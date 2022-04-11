@@ -45,6 +45,12 @@ class bubble {
   
   animate(speed) {
     
+    if (!speed) {
+      
+      speed = 2;
+      
+    }
+    
     this.y = this.y - speed;
     this.x = this.x - random(-5,5);
     
