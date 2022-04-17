@@ -1,29 +1,20 @@
 class bubble {
   
-  constructor(x, y, rds = 50) {
+  constructor(img, x, y, rds = 50) {
     
     
+    this.img = img
     this.x = x
     this.y = y
     this.w = rds;
     this.h = rds;
-    this.rds = rds;
-    
-    this.r = 255;
-    this.g = 255;
-    this.b = 255;
-    this.a = 255;
-    
-    this.sw = 1;
+    this.rds = rds; 
     
   }
   
   show() {
     
-    noFill();
-    stroke(this.r, this.g, this.b, this.a);
-    strokeWeight(this.sw);
-    ellipse(this.x, this.y, this.w, this.h);
+    image(this.img, this.x, this.y, this.w, this.h);
     
   }
   
@@ -47,22 +38,6 @@ class bubble {
       this.y = height;
       
     }
-    
-  }
-  
-  
-  color(r,g,b,a = 255) {
-    
-    this.r = r;
-    this.g = g;
-    this.b = b;
-    this.a = a;
-    
-  }
-  
-  strokeWeight(sw) {
-    
-    this.sw = sw
     
   }
   
