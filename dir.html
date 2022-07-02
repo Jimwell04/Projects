@@ -1,0 +1,67 @@
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Jimwell Ibay ">
+    <meta name="keywords" content="Jimwell Ibay, website portfolio, projects">
+    <meta name="author" content="Jimwell Ibay">
+    <title>Jimwell Projects</title>
+
+    <!--Semantic UI CSS-->
+    <link rel="stylesheet" href="framework/semantic ui/semantic.min.css">
+
+  </head>
+
+  <body>
+    
+    <br>
+
+<div class="ui container">
+    <div class="ui relaxed divided list">
+      
+      <?php 
+      
+      $path = "dir";
+      $dir = array_diff(scandir($path), array(".",".."));
+      
+      
+      foreach ($dir as $d) {
+        
+        echo '
+        
+      <div class="item">
+        <i id="icon" class="ui file icon"></i>
+        <div class="content">
+          <li id="name" class="header">'.$d.'</li>
+        </div>
+      </div>
+        
+        
+        ';
+        
+      }
+      
+      ?>
+      
+    </div>
+</div>
+
+
+
+    <!--Semantic UI JS-->
+    <script src="framework/semantic ui/semantic.min.js"></script>
+
+    <!--JQuery-->
+    <script src="framework/jquery/jquery.min.js"></script>
+
+    <!--dir.js-->
+    <script src="dir.js"></script>
+
+  </body>
+
+  </html>
+
+
+
