@@ -13,6 +13,10 @@ body {
   font-family: sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   margin: 5%;
   padding: 10%;
@@ -75,3 +79,4 @@ body {
   background-color: #0928C6;
   color: #FAFAFA;
 }
+
