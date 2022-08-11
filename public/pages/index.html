@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!--Semantic UI CSS-->
+  <link rel="stylesheet" href="../framework/semantic ui/semantic.min.css">
+  
+  <!--Main CSS-->
+  <link rel="stylesheet" href="style/style.css">
+  
+  <title>Jimwell Projects</title>
+</head>
+
+<body>
+  
+<!--Back Script-->
+
+<div class="ui top fixed inverted menu">
+  <div class="item" id="back">
+    <i class="reply icon"></i>
+  </div>
+</div>
+
+<script>
+
+  let back = document.querySelector("#back");
+  
+  back.addEventListener("click", () => {
+    
+    history.back();
+    
+  });
+  
+</script>
+     
+  
+<div class="margin-top"></div>
+
+
+<!--Project Cards-->
+<div class="ui container">
+  
+    <div class="ui link six doubling cards" id="cards">
+
+    </div>
+     
+</div>
+
+<!--JQuery Script-->
+<script src="../framework/jquery/jquery.min.js"></script>
+
+<!--Semantic UI Script-->
+<script src="../framework/semantic ui/semantic.min.css"></script>
+
+<!--Data Script-->
+<script src="../data/data.js"></script>
+
+<!--Main Script-->
+<script src="script/main.js"></script>
+
+</body>
+
+</html>
